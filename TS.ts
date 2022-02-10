@@ -23,7 +23,7 @@ class Horse extends Animal {
 }
 let sam = new Snake("Sammy the Python");
 let tom: Animal = new Horse("Tommy the Palomino");
-// 1
+// 122
 sam.move(1);
 tom.moves(34);
 console.log("--------");
